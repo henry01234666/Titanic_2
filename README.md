@@ -1,2 +1,2 @@
 # Titanic_2
-My first Kaggle try and also github
+My first Kaggle project and also first GitHub try
